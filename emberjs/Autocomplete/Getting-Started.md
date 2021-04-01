@@ -71,7 +71,7 @@ The data for the suggestion list can be populated using the e-dataSource propert
 
 ## Enable Popup Button
 
-This button helps you to show all the available suggestions by click on it instead of the search text.
+This button helps you to show all the available suggestions by clicking on it instead of the search text.
 
 {% highlight html %}
 
